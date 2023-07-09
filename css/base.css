@@ -181,7 +181,7 @@ main {
 
 .product__bg {
 	height: 20em;
-	background: var(--details-bg-down);
+/* 	background: var(--details-bg-down); */
 	position: relative;
 }
 

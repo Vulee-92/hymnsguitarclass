@@ -262,7 +262,7 @@ main {
 .details__bg--down {
 	top: 40vh;
 	height: 60vh;
-	background: var(--details-bg-down);
+/* 	background: var(--details-bg-down); */
 }
 
 .details__img {

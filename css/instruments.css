@@ -60,18 +60,22 @@
 
 /* Guitar */
 .guitar__body {
-	fill: #cac3b0;
-	stroke: #b7b09e;
-	stroke-width: 1px;
+	fill: #ffaa00;
+	stroke: #ff8800;
+	stroke-width: 10px;
 }
 
-.guitar__neck,
-.guitar__stringcut {
-	fill: #b7b09f;
+.guitar__neck
+{
+	fill: #c86500;
+	border-radius: 3%;
+	background-color: #c86500
 }
-
+.guitar__stringcut{
+	fill:#3a4b52;
+}
 .guitar__middle {
-	fill: #afa99a;
+	fill: #3a4b52;
 }
 
 .guitar__string {

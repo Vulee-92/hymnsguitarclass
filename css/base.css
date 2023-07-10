@@ -181,7 +181,7 @@ main {
 
 .product__bg {
 	height: 20em;
-/* 	background: var(--details-bg-down); */
+	/* background: var(--details-bg-down); */
 	position: relative;
 }
 
@@ -262,7 +262,7 @@ main {
 .details__bg--down {
 	top: 40vh;
 	height: 60vh;
-/* 	background: var(--details-bg-down); */
+	/* background: var(--details-bg-down); */
 }
 
 .details__img {
@@ -481,4 +481,7 @@ audio, canvas, video {
 	.dummy-menu {
 		margin: 1.75em 1.5em 0 0;
 	}
+}
+.interaction .interaction--corner{
+	display: hidden;
 }

@@ -222,7 +222,7 @@ a:focus {
 	height: 72px;
 	margin: 0 auto;
 	pointer-events: none;
-	background: url(../img/interaction_dark.svg) no-repeat center center;
+/* 	background: url(../img/interaction_dark.svg) no-repeat center center; */
 	background-size: cover;
 }
 

@@ -280,6 +280,7 @@ main {
 .details__title {
 	margin: -1.5em 0 0.1em;
 	font-size: 4.5em;
+		width: 50%;
 	color: var(--color-details-title);
 	font-family: "Playfair Display", serif;
 	font-weight: 700;

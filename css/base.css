@@ -366,8 +366,8 @@ main {
 }
 
 .details__deco {
-	width: 7em;
-	height: 20px;
+/* 	width: 7em;
+	height: 20px; */
 	background-position: 50% 97%;
 	background-size: 150%;
 }

@@ -23,7 +23,7 @@
             <div class="details__price"></div>
             <p class="details__description"></p>
             <button class="details__addtocart">Thêm vào giỏ hàng</button>
-            <button class="details__close"><i class="fa-regular fa-xmark-large fa-beat-fade"></i></button>
+            <button class="details__close"><i class="fa-solid fa-magnifying-glass fa-beat-fade"></i></button>
             <button class="details__magnifier"><i class="fa-solid fa-magnifying-glass fa-beat-fade"></i></button>
             `;
 
